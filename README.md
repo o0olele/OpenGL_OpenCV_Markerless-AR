@@ -11,3 +11,6 @@ Markerless AR using OpenCV and OpenGL
 - gif
 
 ![cube demo](https://github.com/o0olele/OpenGL_OpenCV_Markerless-AR/blob/master/Cube%20Demo/img/cube.gif)
+
+# Model Demo
+- require:assimp
