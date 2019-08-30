@@ -20,6 +20,6 @@ Markerless AR using OpenCV and OpenGL
 - require:[assimp](https://github.com/assimp/assimp)
 - gif
 
-![skeletal demo](./Skeletal%20Demo/img/demo1.webp)
+![skeletal demo](./Skeletal%20Demo/img/demo0.webp)
 
-![skeletal demo](./Skeletal%20Demo/img/demo2.webp)
+![skeletal demo](./Skeletal%20Demo/img/demo1.webp)
